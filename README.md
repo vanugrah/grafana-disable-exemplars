@@ -1,2 +1,2 @@
 # grafana-disable-exemplars
-Tool to search through all dashboards in Grafana and disable exemplar querying. 
+Scripts to find dashboards that have exemplar queries  and update them to disable exemplars. 
